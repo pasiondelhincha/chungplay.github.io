@@ -9,7 +9,7 @@ Updated m3u links of YouTube live channels, **auto-updated every hour**.
 
 
 ### Add more channels
-Edit `youtube_channel_info.txt` to add your favourite YouTube livestreams
+Edit `URL_link.txt` to add your favourite YouTube livestreams
 ### Usage
 Paste this URL: `https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/playlist.m3u` to any player which supports M3U playlists
 
