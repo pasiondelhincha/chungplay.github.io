@@ -16,7 +16,7 @@ Paste this URL: `https://raw.githubusercontent.com/chungplay/chungplay.github.io
 ### Run the tool on your local machine
 ``` bash
 git clone https://github.com/chungplay/chungplay.github.io.git
-cd YouTube_to_m3u
+cd chungplay.github.io
 chmod +x autorun.sh
 ./autorun.sh
 ```
