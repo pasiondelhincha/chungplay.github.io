@@ -1017,12 +1017,12 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/chungstudio/ChungTV/main/assets/chung_na.m3u')
+                print('https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u')
                 return
             os.system(f'wget {url} -O temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/chungstudio/ChungTV/main/assets/chung_na.m3u')
+                print('https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -1039,7 +1039,7 @@ def grab(url):
 print('#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1')
 print(banner)
 s = requests.Session()
-with open('../url_link.txt') as f:
+with open('../URL_link.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
