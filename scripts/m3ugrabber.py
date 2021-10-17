@@ -336,6 +336,9 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="http://chungplay.github.io/logo/k+kids.png" group-title="🌎 🅺🅴🅽🅷 🅺🅸🅳🆂 🌎",K+KIDS HD
+http://chungplay.github.io/play/kplus/kids.m3u8
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png" group-title="🌎 🅺🅴🅽🅷 🅺🅸🅳🆂 🌎",Animax HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
