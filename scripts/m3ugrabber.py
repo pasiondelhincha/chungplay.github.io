@@ -276,7 +276,6 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="channelvhd" tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_channelV_422x278.png" group-title="Kênh MUSIC" ,Channel [V] HD 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="hbohd-asia"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png"  group-title="Kênh HBO GO",HBO Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
@@ -329,7 +328,6 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
-
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png" group-title="Kênh KIDS & CARTOON",Animax HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
@@ -436,7 +434,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="nhk_world" tvg-logo="https://mytv.com.vn/upload/channel/50.png" group-title="Kênh QNET" type="stream",NHK World Japan HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://chungplay.github.io/logo/tlc.png" group-title="Kênh QNET" type="stream",TLC HD - The Learning Channel
+#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://www.tlc-tw.com/images/logo.png" group-title="Kênh QNET" type="stream",TLC HD - The Learning Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="historyhd" tvg-logo="https://chungplay.github.io/logo/history.png" group-title="Kênh QNET" type="stream",History HD
@@ -475,7 +473,6 @@ https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" tvg-logo="https://mytv.com.vn/upload/channel/65.png" group-title="Kênh QNET" type="stream",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="Kênh WORLDWIDE TV" type="stream",Ariang KOREA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -503,7 +500,7 @@ https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 #EXTINF:-1 tvg-logo="https://chungplay.github.io/logo/hgtv.png" group-title="Kênh WORLDWIDE TV" type="stream",HGTV HD - Home and Garden Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://feed.play.mv/live/10005200/Wvl02Co4S1/master.m3u8
-#EXTINF:-1 tvg-logo="https://chungplay.github.io/logo/tlc.png" group-title="Kênh WORLDWIDE TV" type="stream",TLC HD
+#EXTINF:-1 tvg-logo="https://www.tlc-tw.com/images/logo.png" group-title="Kênh WORLDWIDE TV" type="stream",TLC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
 #EXTINF:-1 tvg-logo="https://chungplay.github.io/logo/DiscoveryHD.png" group-title="Kênh WORLDWIDE TV" type="stream",Discovery HD
@@ -576,6 +573,8 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/162.png" group-title="Kênh WORLDWIDE TV" type="stream",Fashion TV UHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/190.png" group-title="Kênh VIETNAM LOCAL TV",HN1 HD - Truyền hình Hà Nội
 https://live.hanoitv.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/193.png" group-title="Kênh VIETNAM LOCAL TV",HN2 HD - Truyền hình Hà Nội
@@ -732,40 +731,40 @@ https://mekongpassion.com/live/tv/playlist.m3u8
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/683.png" group-title="Kênh VIETNAM LOCAL TV",KGTV1 - Truyền hình Kiên Giang
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",RTHK TV 31 (港台電視31)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Kênh HONGKONG",RTHK TV 31 (港台電視31)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1024px-RTHK_TV_32.svg.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",RTHK TV 32 (港台電視32)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1024px-RTHK_TV_32.svg.png" group-title="Kênh HONGKONG",RTHK TV 32 (港台電視32)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/1024px-RTHK_TV_33.svg.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",RTHK TV 33 (港台電視33)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/1024px-RTHK_TV_33.svg.png" group-title="Kênh HONGKONG",RTHK TV 33 (港台電視33)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3a/HKIBC_logo.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",Hong Kong International Business Channel (香港國際財經台)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3a/HKIBC_logo.png" group-title="Kênh HONGKONG",Hong Kong International Business Channel (香港國際財經台)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",Hong Kong Open TV (香港開電視)
+#EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="Kênh HONGKONG",Hong Kong Open TV (香港開電視)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",TVB Jade (翡翠台)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="Kênh HONGKONG",TVB Jade (翡翠台)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",TVB J2
+#EXTINF:-1 tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="Kênh HONGKONG",TVB J2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/master/ChannelLogo/Hongkong/TVB_News.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",TVB News Channel (無綫新聞台)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/master/ChannelLogo/Hongkong/TVB_News.png" group-title="Kênh HONGKONG",TVB News Channel (無綫新聞台)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",TVB Pearl (明珠台)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="Kênh HONGKONG",TVB Pearl (明珠台)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/master/ChannelLogo/Hongkong/TVB_Finance.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",TVB Finance & Information Channel (無綫財經 · 資訊台)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hououinkami/AppleTV/master/ChannelLogo/Hongkong/TVB_Finance.png" group-title="Kênh HONGKONG",TVB Finance & Information Channel (無綫財經 · 資訊台)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",ViuTVsix
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="Kênh HONGKONG",ViuTVsix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" group-title="🌎 🅺🅴🅽🅷 🅷🅾🅽🅶 🅺🅾🅽🅶 🌎",ViuTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" group-title="Kênh HONGKONG",ViuTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="Kênh JAPAN",NHK総合
@@ -979,7 +978,6 @@ http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/137082
 http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/173442
 #EXTINF:-1 group-title ="Kênh BEIN FOOTBALL", VIP AR: Bein Sport FHD13
 http://subtv.premuimservers.com:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/137024
-
 #EXTINF:-1 group-title="Kênh Zing MP3 Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg", Zing MP3 - On Air
 https://multi-playlist-zmp3.zadn.vn/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8
 #EXTINF:-1 group-title="Kênh Zing MP3 Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg", Zing MP3 - Chạm
