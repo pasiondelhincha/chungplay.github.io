@@ -516,15 +516,18 @@ https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIpsgye.png" group-title="🌎 🅺🅴🅽🅷 🅶🅻🅾🅱🅰🅻 🌎" type="stream",History 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
-#EXTINF:-1 tvg-logo="https://chungstudio.github.io/logo/crimeandinvestigation.png" group-title="🌎 🅺🅴🅽🅷 🅶🅻🅾🅱🅰🅻 🌎" type="stream",Crime+ Investigation TV HD
+#EXTINF:-1 tvg-logo="https://chungplay.github.io/logo/hgtv.png" group-title="🌎 🅺🅴🅽🅷 🅶🅻🅾🅱🅰🅻 🌎" type="stream",HGTV HD - Home and Garden Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
+https://feed.play.mv/live/10005200/Wvl02Co4S1/master.m3u8
 #EXTINF:-1 tvg-logo="https://chungstudio.github.io/logo/travelchannel.png" group-title="🌎 🅺🅴🅽🅷 🅶🅻🅾🅱🅰🅻 🌎" type="stream",Travel Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeopeople.png" group-title="🌎 🅺🅴🅽🅷 🅶🅻🅾🅱🅰🅻 🌎" type="stream",Nat Geo People HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://58.65.171.202:8000/play/10503/index.m3u8
+#EXTINF:-1 tvg-logo="https://chungstudio.github.io/logo/crimeandinvestigation.png" group-title="🌎 🅺🅴🅽🅷 🅶🅻🅾🅱🅰🅻 🌎" type="stream",Crime+ Investigation TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/574px-NASA_logo.svg.png" group-title="🌎 🅺🅴🅽🅷 🅶🅻🅾🅱🅰🅻 🌎" type="stream",NASA TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
