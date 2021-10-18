@@ -570,20 +570,13 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Kênh WORLDWIDE TV" type="stream",LoveNature HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/162.png" group-title="Kênh WORLDWIDE TV" type="stream",Fashion TV UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Kênh UHD & 4K" tvg-logo="https://chungplay.github.io/logo/LoveNature4K.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="Kênh UHD & 4K" tvg-logo="https://mytv.com.vn/upload/channel/162.png",FASHION TV UHD
+#EXTINF:-1 group-title="Kênh UHD & 4K" tvg-logo="https://mytv.com.vn/upload/channel/162.png",FashionTV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kênh UHD & 4K" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png",LOUPE 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/190.png" group-title="Kênh VIETNAM LOCAL TV",HN1 HD - Truyền hình Hà Nội
 https://live.hanoitv.vn/hntvlive/tv1live.m3u8
