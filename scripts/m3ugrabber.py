@@ -148,14 +148,14 @@ https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 #EXTINF:-1 tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_640_360.png" group-title="Kênh Hanoicab"  type="stream",Hanoicab2 - YouTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://fvmpqluto0obj.vcdn.cloud/Media/files/channels/thumb_1623738494c_Box%20Movie.png" group-title="Kênh INTHEBOX.TV" ,Box Movie 1 HD
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://fvmpqluto0obj.vcdn.cloud/Media/files/channels/thumb_1623738494c_Box%20Movie.png" group-title="Kênh INTHEBOX.TV" ,BOX Movie¹ HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://fvmpqluto0obj.vcdn.cloud/Media/files/channels/thumb_1623742686c_Hollywood-201.png" group-title="Kênh INTHEBOX.TV" ,Hollywood Classics HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://fvmpqluto0obj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png"  group-title="Kênh INTHEBOX.TV" , In The Box
 http://103.195.238.226/inthebox/mpegts
 #EXTINF:-1 tvg-id="boxhits" tvg-logo="https://fvmpqluto0obj.vcdn.cloud/Media/files/channels/thumb_1626834087channel3_BoxHit.png"  group-title="Kênh INTHEBOX.TV" , Box Hits
-http://103.195.239.138/boxhits/mpegts
+http://103.195.239.226/boxhits/mpegts
 #EXTINF:-1 tvg-id="man" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png"  group-title="Kênh INTHEBOX.TV" , MAN
 https://e4.endpoint.cdn.sctvonline.vn/hls/man/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://fvmpqluto0obj.vcdn.cloud/Media/files/channels/thumb_1623738727c_Music%20Box.png" group-title="Kênh INTHEBOX.TV" , Music Box
@@ -311,7 +311,7 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hits" tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="Kênh MOVIES" ,HITS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://103.195.239.138/hits/mpegts
+http://103.195.238.226/hits/mpegts
 #EXTINF:-1 tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png" group-title="Kênh MOVIES" , AXN Asia HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
