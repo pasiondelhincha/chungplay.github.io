@@ -575,6 +575,16 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Kênh UHD & 4K" tvg-logo="https://chungplay.github.io/logo/LoveNature4K.png",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="Kênh UHD & 4K" tvg-logo="https://mytv.com.vn/upload/channel/162.png",FASHION TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kênh UHD & 4K" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png",LOUPE 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/190.png" group-title="Kênh VIETNAM LOCAL TV",HN1 HD - Truyền hình Hà Nội
 https://live.hanoitv.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/193.png" group-title="Kênh VIETNAM LOCAL TV",HN2 HD - Truyền hình Hà Nội
