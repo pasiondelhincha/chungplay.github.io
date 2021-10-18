@@ -155,9 +155,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://fvmpqluto0obj.vcdn.cloud/Media/files/channels/thumb_1623926685c_BOX%20W.png"  group-title="Kênh INTHEBOX.TV" , In The Box
 http://103.195.238.226/inthebox/mpegts
 #EXTINF:-1 tvg-id="boxhits" tvg-logo="https://fvmpqluto0obj.vcdn.cloud/Media/files/channels/thumb_1626834087channel3_BoxHit.png"  group-title="Kênh INTHEBOX.TV" , Box Hits
-http://103.195.239.226/boxhits/mpegts
+http://103.195.238.226/boxhits/mpegts
 #EXTINF:-1 tvg-id="man" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png"  group-title="Kênh INTHEBOX.TV" , MAN
-https://e4.endpoint.cdn.sctvonline.vn/hls/man/sd2/index.m3u8|Referer=http://sctvonline.vn/
+http://103.195.238.226/man/mpegts
 #EXTINF:-1 tvg-id="musicbox" tvg-logo="https://fvmpqluto0obj.vcdn.cloud/Media/files/channels/thumb_1623738727c_Music%20Box.png" group-title="Kênh INTHEBOX.TV" , Music Box
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="woman" tvg-logo="https://fvmpqluto0obj.vcdn.cloud/Media/files/channels/thumb_1623743214c_Woman-193.png" group-title="Kênh INTHEBOX.TV" ,Woman HD
