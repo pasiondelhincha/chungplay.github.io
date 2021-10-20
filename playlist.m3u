@@ -1003,7 +1003,7 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=CB5FCF3BAD6F1844&Ticket=3EA46473AC392AAF
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
 
@@ -1011,7 +1011,7 @@ https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.ism
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=CB5FCF3BAD6F1844&Ticket=3EA46473AC392AAF
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
 
@@ -1019,7 +1019,7 @@ https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.i
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=CB5FCF3BAD6F1844&Ticket=3EA46473AC392AAF
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
 
@@ -1027,7 +1027,7 @@ https://kpluslive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.i
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=CB5FCF3BAD6F1844&Ticket=3EA46473AC392AAF
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
 
@@ -1035,7 +1035,7 @@ https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.i
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=CB5FCF3BAD6F1844&Ticket=3EA46473AC392AAF
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
@@ -1043,7 +1043,7 @@ https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fp
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000051&SessionId=CB5FCF3BAD6F1844&Ticket=3EA46473AC392AAF
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000051&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_1_fps/prod_mykplus_live_tv_1_fps.isml/prod_mykplus_live_tv_1_fps.mpd
 
@@ -1051,7 +1051,7 @@ https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_1_fps/prod_mykplus_liv
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000052&SessionId=CB5FCF3BAD6F1844&Ticket=3EA46473AC392AAF
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000052&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_2_fps/prod_mykplus_live_tv_2_fps.isml/prod_mykplus_live_tv_2_fps.mpd
 
@@ -1059,17 +1059,17 @@ https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_2_fps/prod_mykplus_liv
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000053&SessionId=CB5FCF3BAD6F1844&Ticket=3EA46473AC392AAF
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000053&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_3_fps/prod_mykplus_live_tv_3_fps.isml/prod_mykplus_live_tv_3_fps.mpd
 
 
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/live/tit_ytn.png" tvg-id="", YTN New HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634720638/ei/HodvYa_9FseQ8wT01YvQCA/ip/168.62.183.218/id/GoXPbGQl-uQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIga_iFToh7d8wHpcf_xvKMScFulzXrj7suUfYrbhvwTgQCIQCY-_bE21DHY-ExshKf2-3RWSWm68lNIxFtiqzQeSWwyw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634721883/ei/-4tvYYjwMoTakgax36awCQ/ip/40.112.220.87/id/GoXPbGQl-uQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPdSAP9iPEE5hAWY7Uqsy9GiUaa4cOD8dH3SEYJwPK0CAiEAsluWNL2DdmB_8cJjMBTM0tvif-wp1-CS-AlXDX5l7Oc%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_S.png" tvg-id="", YTN사이언스 HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634720638/ei/HodvYa_-NpiT8wTOlJm4DQ/ip/168.62.183.218/id/xfFa_kcPnCY.1/source/yt_live_broadcast/requiressl/yes/tx/45170026/txs/45170026%2C45170027/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgNEkbtr5_qzlDJhkBuWTHP6vStREH1vAYPlvbQ8xdPKUCIEMGe1RaAk07hn9a1ZPllhyAY_loEcIwWGplQiMTIqID/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634721884/ei/_ItvYYi3EY2hkga_iL_ADw/ip/40.112.220.87/id/xfFa_kcPnCY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJXNZc2YqxH2yIZa-52nNC45FECNJJJMQI0Y5lawCDSaAiAhx48fYz-Mek5spZ1u4RpfguSjw__ThC0AADPh-qe09A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kênh South Korea" tvg-logo="https://m.ytn.co.kr/img/program/channel_logo_D.png" tvg-id="", YTN dmb HD
 https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u
@@ -1078,13 +1078,13 @@ https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chun
 https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/1050/center/80/cd7bbe88-915e-47e9-82f4-3132d1d5498d-large16x9_coronaviruspandemic.png" tvg-id="", Coronavirus Pandemic Real Time Live Streaming
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634720641/ei/IYdvYby6KpGQ8wS645pI/ip/168.62.183.218/id/NMre6IAAAiU.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgeAaINBXBj7o3Jk_k8Dr7FTxmAgYNyS_on1ZlMplIhwECIQCe9ZuVVb76oJMHcu4CB1DzPbFqFZiwCfM0R68zbTorRA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634721887/ei/_4tvYfWHAsiikgaGzL2gBQ/ip/40.112.220.87/id/NMre6IAAAiU.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfK2CaqkI-_PpcI3Bmb2Uh_NVYriBScdYxHPXAq4KhH4CIQCRqREi7TQfn4xAg-HUo46h-XgpAgLseDp3tyeFzYTRTQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="https://i.ytimg.com/vi/F4aby5WN1Rw/maxresdefault.jpg" tvg-id="", THE K-POP : 24/7 (K-POP 24시간 실시간 스트리밍 채널)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634720642/ei/IodvYbj8D8e7gwPb6Ku4CQ/ip/168.62.183.218/id/F4aby5WN1Rw.1/source/yt_live_broadcast/requiressl/yes/tx/24046641/txs/24046638%2C24046639%2C24046640%2C24046641/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPtnMPQumAz1hE6XcjCbvxGBKrZrfIH2Jv3gfON0R1cHAiEAvdUl5yRFpQDtgAUdleHIEP0MYGXKNWVsQkRm6deJ3jI%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634721887/ei/_4tvYai5G82Fkgah8YCgAg/ip/40.112.220.87/id/F4aby5WN1Rw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgR_GDN913XGyn0UE8gmW6a4XjHBPO4dcjFVop0O0v01YCIF_YIZ-1hZ_tReot8KQUYrXAz2Wu-R4fA9d11MWaL0P0/file/index.m3u8
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="http://s1.dmcdn.net/u/6cy0k1X0uERkj9IF0/200x200" tvg-id="", 24/7 Online K-POP IDOL Channel [ALL THE K-POP]
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634720642/ei/IodvYabjL_CR2LYPqq6K6Ak/ip/168.62.183.218/id/0-RirLdUYEE.2/source/yt_live_broadcast/requiressl/yes/tx/24027702/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYMQD58SuuTzka8mvtpggTFLJbka8USj312WUXOkSod8CIQDJeG70ruDUfG2EnUglfo01Rl5qCKODugzv15HWV1YWwQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634721887/ei/_4tvYf6tNY62kwbG55ygBg/ip/40.112.220.87/id/0-RirLdUYEE.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANDUn3AqoU-y0LarGyPfd8wcCHflcHinYU_bL5yzJcRmAiBT4UiaO-8_-SlGM7r05flcnBmSlJw9RXfTxykHq-jjgg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live Youtube 24/7" tvg-logo="https://www.korea.net/renewal2019/img/logo.png" tvg-id="", Korea.net 24/7 Live Streaming
 https://raw.githubusercontent.com/chungplay/chungplay.github.io/main/assets/chung_na.m3u
