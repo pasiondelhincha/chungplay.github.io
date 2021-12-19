@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:BANDWIDTH=3628000,RESOLUTION=1920x1080
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=A1F842BE549A26DE&Ticket=ABE56DB9E041DC98
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
